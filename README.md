@@ -5,4 +5,4 @@ Meteor CRUD Generator
 
 Check the _README.md for the original readme, use at own risk!
 
-There is an [EasyCheck](https://github.com/matteodem/meteor-easy-check) package now, and soonish an EasyHtml which will take over the tasks!
+There is an [EasyCheck](https://github.com/matteodem/meteor-easy-check) package now.
